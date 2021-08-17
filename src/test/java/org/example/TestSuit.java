@@ -7,7 +7,7 @@ public class TestSuit extends BaseTest{
     @Test
     public void userOpenURL(){
 
-
+        System.out.println("Hello");
 
 
 
